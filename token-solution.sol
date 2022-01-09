@@ -4,7 +4,7 @@
 pragma solidity ^0.8.4;
 
 contract TonyTestToken {
-s
+
     address public minter;
     mapping (address => uint) public balances;
 
