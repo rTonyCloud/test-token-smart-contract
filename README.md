@@ -1,1 +1,1 @@
-# test-token-smart-contract
+# Token-Minting-Smart-Contract
